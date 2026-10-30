@@ -1,7 +1,7 @@
 # Custodian downloads
 
 Installers for the Custodian desktop app. Download the latest build from
-[Releases](https://github.com/hgbobia-zoe/custodian-releases/releases/latest).
+[Releases](https://github.com/hgbobia-zoe/custodian-releases/releases).
 
 | Computer | File |
 |---|---|
